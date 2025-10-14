@@ -13,7 +13,7 @@ p{
 #style_p{
     color:chocolate;
 }
-div>p{
-    color:aquamarine;
+p>span{
+    color:white;
     font-weight: bold;
 }
